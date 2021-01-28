@@ -1,7 +1,7 @@
-## Video Lessons
-
 ## General Resources
 - https://www.bklynlibrary.org/lynda
+
+## Video Lessons
 
 ## Photo Lessons
 - http://photoskop.com/
