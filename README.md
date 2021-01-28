@@ -12,8 +12,9 @@
 - https://www.youtube.com/watch?v=23fsaDDscFQ
 
 ## Podcasts
-- [Bogosity POdcasts](https://www.youtube.com/watch?v=KvcxV_Ex068)
+- [Bogosity Podcast](https://www.youtube.com/watch?v=KvcxV_Ex068)
 
 ## Coding Lessons
 - [Traversy Media](https://www.youtube.com/traversymedia)
 - [Web Dev in 2021](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
+
