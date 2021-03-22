@@ -10,7 +10,7 @@
 
 ## Video Lessons
 - [Nas Academy](https://www.youtube.com/watch?v=23fsaDDscFQ)
-- [Canong Vlogging](https://shop.usa.canon.com/shop/en/catalog/how-to-vlog-10-vlogging-tips)
+- [Canon Vlogging](https://shop.usa.canon.com/shop/en/catalog/how-to-vlog-10-vlogging-tips)
 
 ## Podcasts
 - [Bogosity Podcast](https://www.youtube.com/watch?v=KvcxV_Ex068)
